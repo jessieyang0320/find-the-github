@@ -1,0 +1,19 @@
+{
+  "name": "find-the-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessieyang0320/find-the-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessieyang0320/find-the-github/issues"
+  },
+  "homepage": "https://github.com/jessieyang0320/find-the-github#readme"
+}
